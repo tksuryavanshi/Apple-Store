@@ -1,0 +1,27 @@
+{
+  "name": "github-intelligence-script",
+  "version": "1.0.0",
+  "description": "Tool for Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-tksuryavanshi:tksuryavanshi/Github-Intelligence-Script.git"
+  },
+  "keywords": [
+    "Github",
+    "Tools",
+    "JavaScript",
+    "builds"
+  ],
+  "author": "Tarun Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^2.2.0",
+    "simple-git": "^3.19.1"
+  }
+}
